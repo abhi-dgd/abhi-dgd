@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhidgd
-- 👀 I’m interested in data science using machine learning, artificial neural networks, python programming
-- 🌱 I’m currently learning neural networks and deep learning models at university
-- 💞️ I’m looking to collaborate on recommedation and prediction projects
+- 👀 I’m interested in a lot of different things but mostly Python, DevOps, and exploring new tech
+- 🌱 I’m currently learning deployment methods
+- 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me abhidegadwala@gmail.com
 
 <!---
