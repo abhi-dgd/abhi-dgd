@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Degadwala</h1>
-<h3 align="center">A backend developer learning the ways of frontend</h3>
+<h1 align="center">Hi, I am Abhishek Degadwala</h1>
+<h3 align="center"><p>A backend developer learning the ways of frontend. Trying to apply my software and mechanical hardware knowledge to make a positive impact.</p><p>Master of Engineering Automation and Smart Systems. Bachelor of Technology Mechatronics engineering. Diploma Mechanical engineering.</p></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-dgd&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-dgd" /> </p>
 
@@ -7,12 +7,13 @@
 
 - 🌱 I am currently learning **learning C++ and JavaScript**
 
-- 💬 Ask me about **Using Python in production**
+- 💬 Ask me about **using Python in production**
 
-- 📫 Reach out to me **abhidegadwala@gmail.com**
+- 📧 Email me at **abhidegadwala@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn</h3>
 <p align="left">
+  https://www.linkedin.com/in/abhishekdgd/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
