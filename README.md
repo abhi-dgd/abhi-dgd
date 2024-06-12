@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I am currently learning **learning C++ and JavaScript**
+- 🌱 I am currently learning ** C++ and JavaScript**
 
-- 💬 Ask me about **using Python in production**
+- 💬 Ask me about using **Python in production**
 
 - 📧 Email me at **abhidegadwala@gmail.com**
 
